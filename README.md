@@ -1,1 +1,2 @@
 # Restaurant-Rating-Prediction
+In order to predict restaurant ratings in a smarter way, machine learning techniques have been embraced in this paper. Models, in our paper, predict a rating (bad, average or good) from a number of parameters that a user feels about a restaurant. Different machine learning classiﬁers including decision tree, random forest, k-nearest neighbor and na¨ıve bayes have been applied.
